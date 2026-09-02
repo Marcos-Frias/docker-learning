@@ -52,7 +52,7 @@ docker-learning-path/
 ### Primeros pasos
 \`\`\`bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/docker-learning-path.git
+git clone https://github.com/tu-usuario/docker-learning.git
 cd docker-learning-path
 
 # Ejecutar el primer ejemplo
