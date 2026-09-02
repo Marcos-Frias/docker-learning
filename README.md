@@ -1,4 +1,4 @@
-# 🐳 Docker Learning Path
+# 🐳 Docker Learning
 
 > Una guía completa y práctica para aprender Docker desde cero hasta producción.
 
